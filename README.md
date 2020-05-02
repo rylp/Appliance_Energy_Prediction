@@ -3,3 +3,6 @@ Predicted the energy consumed by various appliances using moisture content, temp
 
 # Original Dataset
 UCI Datasets: https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction
+
+# Kaggle Competition Link
+URL: https://www.kaggle.com/c/dataquest2020 
